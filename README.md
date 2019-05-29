@@ -1,2 +1,2 @@
-# Taxi-fair-prediction
-Predict the taxi fair based on the historical data.
+# Taxi-fare-prediction
+Predict the taxi fare based on the historical data.
